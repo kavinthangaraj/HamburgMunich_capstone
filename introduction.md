@@ -5,13 +5,13 @@
 
 **Introduction**
 
-For this capstone project, we compare the second and third most populous German cities Hamburg and Munich with a population of roughly 1.7 million and 1.3 million people respectively. The neighborhoods of these two cities are analyzed to find how similar/different the cities are, using the location data obtained from Foursquare's API. After a general comparison, this project dwells into a business problem of choosing the best city among these two for opening a restaurant.
+For this capstone project, we compare the second and third most populous German cities Hamburg and Munich with a population of roughly 1.9 million and 1.5 million people respectively. The neighborhoods of these two cities are analyzed to find how similar/different the cities are, using the location data obtained from Foursquare's API. After a general comparison, this project dwells into a business problem of choosing the best city among these two for opening a restaurant.
 
 **Business problem**
 
 A famous Indian restaurant in Berlin after being a major hit in the country's capital city is looking to open a new franchise in another German city. For the location of this venture they are considering the next two most populous cities in the country, Hamburg and Munich.
 
-Leveraging the neighborhood data from Foursquare's API, this project focuses on finding the most suited location among the two cities for opening the new restaurant. 
+Leveraging the neighborhood data from Foursquare's API, this project focuses on finding the most suited location among the two cities for opening the new restaurant.
 
 **Who can use this data?**
 
